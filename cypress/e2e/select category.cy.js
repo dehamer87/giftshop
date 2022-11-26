@@ -5,6 +5,7 @@ describe('Open category', function () {
     it('Open category', function () {
         homePage.openHomePage()
         homePage.openKuwaitSection()
-        categories.openFlowersandsweetsSection()
+        //categories.openFlowersandsweetsSection()
+        categories.openFlowersandcakeSection()
     })
 })
